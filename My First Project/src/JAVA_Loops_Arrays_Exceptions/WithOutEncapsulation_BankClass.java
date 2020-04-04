@@ -1,4 +1,4 @@
-package javaPractice;
+package JAVA_Loops_Arrays_Exceptions;
 
 
 //below details are accessible in some other class as well here we accessed in WithOutEncapsulaion_ATMClass

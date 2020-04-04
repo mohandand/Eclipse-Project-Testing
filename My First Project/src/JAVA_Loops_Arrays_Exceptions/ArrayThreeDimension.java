@@ -1,4 +1,4 @@
-package javaPractice;
+package JAVA_Loops_Arrays_Exceptions;
 
 public class ArrayThreeDimension {
 
